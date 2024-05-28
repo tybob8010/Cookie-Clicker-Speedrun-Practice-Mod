@@ -1,1 +1,1 @@
-# Cookie-Clicker-Speedrun-Practice-Mod
+## How to use
