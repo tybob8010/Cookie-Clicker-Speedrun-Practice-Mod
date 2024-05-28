@@ -1,4 +1,6 @@
-# Info
+# How to install
+Dev Console 
+# Info 
 there is 6 different keyboard keys related to modes:
 * 1 activates 1 million cookies mode, every golden cookie will always give out a click frenzy
 * 2 activates hardcore mode (does nothing at the moment)
