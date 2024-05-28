@@ -1,5 +1,8 @@
 # How to install
-Dev Console 
+
+* Dev Console: `Game.LoadMod('https://raw.githack.com/omaruvu/Cookie-Clicker-Speedrun-Practice-Mod/main/main.js');`
+* Bookmark: `javascript:(function(){Game.LoadMod('https://raw.githack.com/omaruvu/Cookie-Clicker-Speedrun-Practice-Mod/main/main.js');})()`
+
 # Info 
 there is 6 different keyboard keys related to modes:
 * 1 activates 1 million cookies mode, every golden cookie will always give out a click frenzy
