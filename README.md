@@ -1,8 +1,6 @@
 # インストール
 
-コンソール: Game.LoadMod('https://raw.githack.com/tybob8010/Cookie-Clicker-Speedrun-Practice-Mod/main/main.js');
-
-ブックマークレート: javascript:(function(){Game.LoadMod('https://raw.githack.com/tybob8010/Cookie-Clicker-Speedrun-Practice-Mod/main/main.js');})()
+ブックマークレート: javascript:(function(){Game.LoadMod('https://raw.githack.com/tybob8010/Cookie-Clicker-Speedrun-Practice-Mod/refs/heads/main/main.js');})()
 
 # 使い方
 
